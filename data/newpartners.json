@@ -172,7 +172,9 @@
         "tags": ["Roofing", "Installation", "Repairs"],
         "facebook": "www.facebook.com/StreamlineRoofingParkerCounty/",
         "instagram": "www.instagram.com/streamlineroofingtx/",
-        "donation": "54"
+        "donation": "54",
+        "whyVideo": "https://www.youtube.com/watch?v=RyrZW8aQWoM",
+        "thumbnail": "https://i.ytimg.com/vi/RyrZW8aQWoM/hqdefault.jpg"
       },
       {
         "id": 13,
@@ -318,8 +320,8 @@
         "facebook": "www.facebook.com/topgunairTX",
         "instagram": "www.instagram.com/top_gun_heating_and_air_/?hl=en",
         "donation": "41",
-        "whyVideo": "",
-        "thumbnail": ""
+        "whyVideo": "https://www.youtube.com/watch?v=ecCreaAy6p8&list=PLZd2EEq1JEZSV5ZndQPXZVNrrlw4meyvB&index=20",
+        "thumbnail": "https://i.ytimg.com/vi/ecCreaAy6p8/hqdefault.jpg"
       },
       {
         "id": 24,
@@ -347,7 +349,9 @@
         "tags": ["Painting", "Interior", "Exterior"],
         "facebook": "www.facebook.com/purestylepainting/",
         "instagram": "",
-        "donation": "36"
+        "donation": "36",
+        "whyVideo": "https://www.youtube.com/watch?v=RpIZxOqp9eM&list=PLZd2EEq1JEZSV5ZndQPXZVNrrlw4meyvB&index=8",
+        "thumbnail": "https://i.ytimg.com/vi/RpIZxOqp9eM/hqdefault.jpg"
       },
       {
         "id": 26,
@@ -621,7 +625,9 @@
         "tags": ["Roofing", "Installation", "Repairs"],
         "facebook": "www.facebook.com/p/Rivera-Roofing-61557158360781/",
         "instagram": "www.facebook.com/p/Rivera-Roofing-61557158360781/",
-        "donation": "16"
+        "donation": "16",
+        "whyVideo": "https://www.youtube.com/watch?v=dAhRyNzq6oA",
+        "thumbnail": "https://i.ytimg.com/vi/dAhRyNzq6oA/hqdefault.jpg"
       },
       {
         "id": 45,
@@ -664,7 +670,9 @@
         "tags": ["Tree", "Service", "Removal"],
         "facebook": "www.neonmonkeytree.com",
         "instagram": "www.neonmonkeytree.com",
-        "donation": "14"
+        "donation": "14",
+        "whyVideo": "https://www.youtube.com/watch?v=Y6T9cG99jGs&list=PLZd2EEq1JEZSV5ZndQPXZVNrrlw4meyvB&index=17",
+        "thumbnail": "https://i.ytimg.com/vi/Y6T9cG99jGs/hqdefault.jpg"
       },
       {
         "id": 49,
@@ -734,7 +742,9 @@
         "tags": ["Roofing", "Installation", "Repairs"],
         "facebook": "www.facebook.com/procoroofing/",
         "instagram": "",
-        "donation": "12"
+        "donation": "12",
+        "whyVideo": "https://www.youtube.com/watch?v=J_BAvWYN4gI&list=PLZd2EEq1JEZSV5ZndQPXZVNrrlw4meyvB&index=14",
+        "thumbnail": "https://i.ytimg.com/vi/J_BAvWYN4gI/hqdefault.jpg"
       },
       {
         "id": 54,
@@ -1188,7 +1198,9 @@
         "tags": ["Fencing"],
         "facebook": "www.facebook.com/PlatinumPerformanceFence/",
         "instagram": "www.facebook.com/PlatinumPerformanceFence/",
-        "donation": "6.85"
+        "donation": "6.85",
+        "whyVideo": "https://www.youtube.com/watch?v=Znph2OkiXhQ&list=PLZd2EEq1JEZSV5ZndQPXZVNrrlw4meyvB&index=13",
+        "thumbnail": "https://i.ytimg.com/vi/Znph2OkiXhQ/hqdefault.jpg"
       },
       {
         "id": 84,
@@ -1258,7 +1270,9 @@
         "tags": ["HVAC"],
         "facebook": "www.facebook.com/Lennox/",
         "instagram": "www.instagram.com/feelthelove@lennoxind.com",
-        "donation": "6.068"
+        "donation": "6.068",
+        "whyVideo": "https://www.youtube.com/watch?v=_i_tvMs2YT8&list=PLZd2EEq1JEZSV5ZndQPXZVNrrlw4meyvB&index=18",
+        "thumbnail": "https://i.ytimg.com/vi/_i_tvMs2YT8/hqdefault.jpg"
       },
       {
         "id": 89,
@@ -3100,7 +3114,9 @@
         "tags": ["Non-Profit"],
         "facebook": "www.facebook.com/CristinaCalk.LoanOfficer/",
         "instagram": "www.facebook.com/CristinaCalk.LoanOfficer/",
-        "donation": ".05"
+        "donation": ".05",
+        "whyVideo": "https://www.youtube.com/watch?v=PvtaEUa-wz4&list=PLZd2EEq1JEZSV5ZndQPXZVNrrlw4meyvB&index=12",
+        "thumbnail": "https://i.ytimg.com/vi/PvtaEUa-wz4/hqdefault.jpg"
       },
       {
         "id": 230,
@@ -3430,231 +3446,25 @@
         "facebook": "https://www.facebook.com/AlbertsonsAzleTX/",
         "instagram": "https://www.instagram.com/Albertsons/",
         "donation": ""
+      },
+      {
+        "id": 261,
+        "name": "Yard Sharks",
+        "category": "landscaping",
+        "description": "Yard Sharks is a landscaping company that offers a wide range of services to help you keep your yard looking great.",
+        "address": "321 W Main St., Azle, TX, United States, Texas",
+        "phone": "(817) 270-3340",
+        "website": "https://www.yardsharks.com/",
+        "image": "https://www.yardsharks.com/images/logo.png",
+        "tags": [""],
+        "facebook": "www.facebook.com/myyardsharks/photos/?ref=page_internal",
+        "instagram": "www.facebook.com/myyardsharks/photos/?ref=page_internal",
+        "donation": "",
+        "whyVideo": "https://www.youtube.com/watch?v=5SZj3IXghjI",
+        "thumbnail": "https://i.ytimg.com/vi/5SZj3IXghjI/hqdefault.jpg"
       }
     ]
   }
       
       
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-  
-  
-  
-  
-  
-  
- 
-  
-  
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-     
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-     
-     
-     
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-     
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-     
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-     
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-   
