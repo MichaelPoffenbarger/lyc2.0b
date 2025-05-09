@@ -290,20 +290,6 @@
         "donation": "43"
       },
       {
-        "id": 21777,
-        "name": "Jack Martin Holdings",
-        "category": "finances",
-        "description": "Financial Advisory Services",
-        "address": "12549 Avondale Ridge, Fort Worth, TX 76134",
-        "phone": "(817) 444-9964",
-        "website": "www.jackmartinholdings.com",
-        "image": "https://www.jackmartinholdings.com/wp-content/uploads/2021/06/logo-main@2x.png",
-        "tags": ["Finance"],
-        "facebook": "https://www.facebook.com/jackmartinholdings",
-        "instagram": "",
-        "donation": "42"
-      },
-      {
         "id": 22,
         "name": "Hart HVAC",
         "category": "hvac",
@@ -681,20 +667,6 @@
         "donation": "14"
       },
       {
-        "id": 48777,
-        "name": "GUS Ventures Construction",
-        "category": "construction",
-        "description": "GUS Ventures Construction is a construction company based in Fort Worth, Texas. They offer a wide range of construction services, including residential and commercial installations, repairs, and maintenance.",
-        "address": "Fort Worth, TX",
-        "phone": "",
-        "website": "",
-        "image": "https://images.squarespace-cdn.com/content/v1/6411fc36b2cfc644c3df27c5/a1fac519-bcad-4c41-95e0-416096580aa7/download-1.jpg?format=300w",
-        "tags": ["Remodeling", "Construction"],
-        "facebook": "",
-        "instagram": "",
-        "donation": "14"
-      },
-      {
         "id": 49,
         "name": "Greenlight Roofing & Remodeling",
         "category": "roofing",
@@ -923,20 +895,6 @@
         "donation": "",
         "whyVideo": "https://www.youtube.com/watch?v=w-pd92Xq6_c&list=PLZd2EEq1JEZSV5ZndQPXZVNrrlw4meyvB&index=7",
         "thumbnail": "https://i.ytimg.com/vi/w-pd92Xq6_c/hqdefault.jpg"
-      },
-      {
-        "id": 62777,
-        "name": "North Texas Excavation Services",
-        "category": "excavation",
-        "description": "Expert Roofing and Construction services",
-        "address": "",
-        "phone": "(817) 528-9170",
-        "website": "",
-        "image": "",
-        "tags": ["Excavation", "Construction"],
-        "facebook": "",
-        "instagram": "",
-        "donation": "10"
       },
       {
         "id": 63,
@@ -1443,20 +1401,6 @@
         "donation": "5"
       },
       {
-        "id": 99777,
-        "name": "NOS Bar",
-        "category": "other",
-        "description": "NOS Bar is a bar and restaurant that specializes in cocktails and food.",
-        "address": "240 w. Main St., Azle, TX 76020",
-        "phone": "(817) 600-1336",
-        "website": "https://www.facebook.com/RockTheNosBar/",
-        "image": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/236608429_5931947416876844_6351285757218951448_n.png?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=IrTaBcup-wUQ7kNvwFLD6hs&_nc_oc=AdmQzd4QzrpXmhzZw0JLZu3yKUl_R4F9nNRFLzesjsSgva-dcw3rynDfLzGC6zRllirc9bBViPaO6GtIujPMhiKB&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=jXJ2CZLYfC6ZfBIdYpZZ-w&oh=00_AfErLorL9rfbQAWT3sfRlkHWUT9XnZPOzDXdy57pUvuc1g&oe=681AD467",
-        "tags": ["Bar", "Restaurant"],
-        "facebook": "www.facebook.com/RockTheNosBar/",
-        "instagram": "www.facebook.com/RockTheNosBar/",
-        "donation": "5"
-      },
-      {
         "id": 100,
         "name": "JWC Construction Group",
         "category": "construction",
@@ -1539,20 +1483,6 @@
         "facebook": "www.facebook.com/ABCSupplyCo/",
         "instagram": "www.facebook.com/ABCSupplyCo/",
         "donation": "5"
-      },
-      {
-        "id": 106777,
-        "name": "Steven Bernard Construction",
-        "category": "construction",
-        "description": "Construction",
-        "address": "842 Cr 4699, Boyd, TX 76023",
-        "phone": "(940) 367-0108",
-        "website": "***",
-        "image": "https://images.squarespace-cdn.com/content/v1/6411fc36b2cfc644c3df27c5/ad8c0835-018a-49f4-8afa-0a8f4331cf9f/Steven+Bernard+Construction.png?format=300w",
-        "tags": ["Construction"],
-        "facebook": "***",
-        "instagram": "***",
-        "donation": "4"
       },
       {
         "id": 107,
@@ -1864,20 +1794,6 @@
         "donation": "2.5"
       },
       {
-        "id": 129777,
-        "name": "Kingdom Construction",
-        "category": "construction",
-        "description": "",
-        "address": "1148 Harmony Cir, Weatherford, TX 76087-8954",
-        "phone": "(817) 550-3672",
-        "website": "",
-        "image": "http://nebula.wsimg.com/9822dacf4a6c36e0d4619d843c4751d8?AccessKeyId=5B1687E6E374BE6EE7E1&disposition=0&alloworigin=1",
-        "tags": ["Construction"],
-        "facebook": "",
-        "instagram": "",
-        "donation": "2.5"
-      },
-      {
         "id": 130,
         "name": "Deeply Rooted Tree Service",
         "category": "trees",
@@ -1931,20 +1847,6 @@
         "tags": ["Retail"],
         "facebook": "www.facebook.com/walmart",
         "instagram": "www.instagram.com/walmart/",
-        "donation": "2.5"
-      },
-      {
-        "id": 134777,
-        "name": "Trinity River Fence and Construction",
-        "category": "construction",
-        "description": "Trinity River Fence and Construction is a locally owned and operated company that specializes in fence installation and construction services.",
-        "address": "224 Mountain View Dr, Azle, TX 76020",
-        "phone": "(682) 556-5224",
-        "website": "***",
-        "image": "",
-        "tags": ["Fence", "Installation", "Construction"],
-        "facebook": "***",
-        "instagram": "***",
         "donation": "2.5"
       },
       {
@@ -2301,20 +2203,6 @@
         "donation": "1.5"
       },
       {
-        "id": 163777,
-        "name": "Commercial Door Installers",
-        "category": "construction",
-        "description": "Commercial Door Installers",
-        "address": "357 CR 4869, Azle, TX 76020",
-        "phone": "(972) 537-6065",
-        "website": "",
-        "image": "",
-        "tags": ["Commercial Door Installers"],
-        "facebook": "",
-        "instagram": "",
-        "donation": "1.32"
-      },
-      {
         "id": 161,
         "name": "Halls Air Performance",
         "category": "hvac",
@@ -2638,20 +2526,6 @@
         "donation": "1"
       },
       {
-        "id": 184777,
-        "name": "Revolution Remodeling",
-        "category": "construction",
-        "description": "Construction",
-        "address": "437 Prairie Hill Ct, Springtown, TX 76082",
-        "phone": "(817) 696-5207",
-        "website": "",
-        "image": "",
-        "tags": ["Construction"],
-        "facebook": "",
-        "instagram": "",
-        "donation": "1"
-      },
-      {
         "id": 185,
         "name": "Lucas Construction Service",
         "category": "construction",
@@ -2736,20 +2610,6 @@
         "donation": "1" 
       },
       {
-        "id": 191777,
-        "name": "ESJ Electrical Contractors",
-        "category": "electrician",
-        "description": "Electrician",
-        "address": "175 Ridgetop Trl, Rhome, TX 76078",
-        "phone": "(214) 532-3201",
-        "website": "",
-        "image": "",
-        "tags": ["Electrician"],
-        "facebook": "",
-        "instagram": "",
-        "donation": "1"
-      },
-      {
         "id": 192,
         "name": "Double K Property Services",
         "category": "other",
@@ -2776,20 +2636,6 @@
         "facebook": "www.facebook.com/p/Advent-Windows-Doors-100085378065623/",
         "instagram": "www.facebook.com/p/Advent-Windows-Doors-100085378065623/",
         "donation": "1"
-      },
-      {
-        "id": 194777,
-        "name": "Eagle Mountain Veterinary Clinic",
-        "category": "veterinary",
-        "description": "Veterinary",
-        "address": "729 Boyd Rd, Azle, TX 76020",
-        "phone": "(940) 229-4560",
-        "website": "",
-        "image": "https://chambermaster.blob.core.windows.net/images/chambers/2551/ChamberImages/logo/200x200/2009_AACC_Logo.jpg",
-        "tags": ["Veterinary"],
-        "facebook": "",
-        "instagram": "",
-        "donation": ".975"
       },
       {
         "id": 195,
@@ -3002,20 +2848,6 @@
         "donation": ".50"
       },
       {
-        "id": 210777,
-        "name": "Hendrix Painting & Carpentry LLC",
-        "category": "painting",
-        "description": "Painting",
-        "address": "",
-        "phone": "(479) 685-6711",
-        "website": "",
-        "image": "",
-        "tags": ["Painting"],
-        "facebook": "",
-        "instagram": "",
-        "donation": ".50"
-      },
-      {
         "id": 211,
         "name": "Wildlife Solutions of Texas",
         "category": "other",
@@ -3127,21 +2959,6 @@
         "instagram": "www.facebook.com/century21/",
         "donation": ".50"
       },
-      {
-        "id": 219777,
-        "name": "Asa's Mechanic & Contractor",
-        "category": "construction",
-        "description": "Construction",
-        "address": "PO Box 233, Poolville, TX 76487",
-        "phone": "(817) 715-1003",
-        "website": "",
-        "image": "",
-        "tags": ["Construction"],
-        "facebook": "",
-        "instagram": "",
-        "donation": ".50"
-      },
-      
       {
         "id": 220,
         "name": "Cornerstone Community Church",
